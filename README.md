@@ -75,9 +75,9 @@ The raw dataset was cleaned using Python and Pandas.
 4. Handled missing values in text/categorical columns.
 5. Corrected incorrect values in the `rating` column.
 6. Moved incorrect duration values such as:
-   - `66 min`
-   - `74 min`
-   - `84 min`
+   - 66 min
+   - 74 min
+   - 84 min
    
    from the `rating` column to the `duration` column.
 7. Standardized text values.
